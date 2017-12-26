@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\bin\Debug\IndexatorPractice.exe.config
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\bin\Debug\IndexatorPractice.exe
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\bin\Debug\IndexatorPractice.pdb
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\obj\Debug\IndexatorPractice.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\obj\Debug\IndexatorPractice.exe
+c:\users\1\documents\visual studio 2017\Projects\IndexatorPractice\IndexatorPractice\obj\Debug\IndexatorPractice.pdb
